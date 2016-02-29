@@ -1,0 +1,18 @@
+{
+  "name": "vivid",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A bright and colourful syntax theme, inspired by Fizzy and Google Material Design's colour palette.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "vivid",
+    "bright",
+    "material"
+  ],
+  "repository": "https://github.com/atom/vivid-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
