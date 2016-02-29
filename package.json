@@ -1,16 +1,17 @@
 {
-  "name": "vivid",
+  "name": "rad-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
-  "description": "A bright and colourful syntax theme, inspired by Fizzy and Google Material Design's colour palette.",
+  "version": "0.0.0",
+  "description": "A light and radically colourful syntax theme, inspired by Google Material Design's colour palette.",
   "keywords": [
     "syntax",
     "theme",
     "vivid",
+	"rad",
     "bright",
     "material"
   ],
-  "repository": "https://github.com/atom/vivid-syntax",
+  "repository": "https://github.com/cliambrown/rad-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

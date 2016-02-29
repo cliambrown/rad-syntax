@@ -1,4 +1,4 @@
-# vivid-syntax theme
+# rad-syntax theme
 
 A bright and colourful syntax theme, inspired by Google Material Design's [colour palette](https://www.google.com/design/spec/style/color.html).
 
