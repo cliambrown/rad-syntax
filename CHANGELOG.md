@@ -1,3 +1,6 @@
+## 0.4.0
+* Fixed an issue with colouring multi-word CSS values
+
 ## 0.3.0
 * Corrected the colour of variables used as parameters in js function calls
 
