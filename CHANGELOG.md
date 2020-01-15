@@ -1,3 +1,6 @@
+## 0.5.0
+* Fix deprecated CSS selectors (credit @barbeque)
+
 ## 0.4.0
 * Fixed an issue with colouring multi-word CSS values
 
